@@ -1,3 +1,5 @@
+Airbrake Community - Code Of Conduct
+
 AB Dev Community (known as Airbrake Developer Community) exists to facilitate sharing information, resources, and encouragement among all developer and users of the Airbrake community.
 
 We believe our mission is best served in an environment that is friendly, safe, and accepting; free from intimidation or harassment.
